@@ -1,0 +1,28 @@
+{
+  "name": "bot-serverless",
+  "version": "1.0.0",
+  "description": "Porygon, but hosted on Vercel Serverless.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PorygonBot/bot-serverless.git"
+  },
+  "keywords": [
+    "vercel",
+    "serverless",
+    "pokemon",
+    "discord"
+  ],
+  "author": "harbar20",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PorygonBot/bot-serverless/issues"
+  },
+  "homepage": "https://github.com/PorygonBot/bot-serverless#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
